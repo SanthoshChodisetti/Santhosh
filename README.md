@@ -3,8 +3,8 @@ This repository contains a Power BI report that provides a comprehensive analysi
 
 **Key Features:**
 
-Occupancy and revenue trends
-Average daily rate (ADR) analysis
-Customer feedback and satisfaction metrics
-Interactive filtering by date, location, or other dimensions
-Visual summaries for management insights
+1. Occupancy and revenue trends
+2. Average daily rate (ADR) analysis
+3. Customer feedback and satisfaction metrics
+4. Interactive filtering by date, location, or other dimensions
+5. Visual summaries for management insights
